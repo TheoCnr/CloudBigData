@@ -1,2 +1,5 @@
-# CloudBigData
-Cloud and big data project
+Hello World!
+
+Project Cloud and Big Data
+CHOUKROUN Simon
+CANARIO Théo
