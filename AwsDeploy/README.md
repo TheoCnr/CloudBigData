@@ -1,2 +1,1 @@
-- We start by creating a VPC to connect the site and the database on an isolated network. We choose to set the IPv4 to 10.0.0.0/16.
-- We add a subnet to the VPC named "Public Subnet" with the IPv4 to 10.0.0.0/24, then we edit his settings to enable auto-assign public IPv4 address. This subnet will be used for the site to be accessible from the internet.
+
